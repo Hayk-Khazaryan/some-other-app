@@ -1,0 +1,15 @@
+.CategoryPage .wrap{
+       display: flex;
+       align-items: flex-start;
+}
+.ProductInfoDiv{
+       display: flex;
+       flex-direction: column;
+       width: 100%;
+}
+.firstDiv{
+       margin-top: 32px;
+}
+.ProductInfoDiv .ProductWrap{
+       margin-bottom: 20px;
+}

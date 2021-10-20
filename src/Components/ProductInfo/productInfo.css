@@ -1,0 +1,142 @@
+.ProductInfo{
+       display: flex;
+       margin-left: 40px;
+       margin-top: 32px;
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+}
+.ProductInfo .img{
+       width: 268px;
+       height: 280px;
+       border-radius: 12px;
+       background-color: #F9F9F9;
+}
+.info{
+       margin-left: 32px;
+}
+.info .title{
+       margin-top: 32px;
+       margin-bottom: 0;
+       font-weight: 600;
+       font-size: 18px;
+}
+.info .text{
+       margin-top: 4px;
+       margin-bottom: 0;
+       font-size: 12px;
+       color: #575757;
+}
+.info div {
+       display: flex;
+}
+.blackStar{
+       margin-top: 10px;
+       margin-right: 5px;
+}
+.star{
+       margin-top: 10px;
+}
+.aboutInfo1{
+       display: flex;
+       flex-direction: column;
+       margin-top: 27px;
+}
+.aboutInfo1 .p1{
+       font-size: 14px;
+       margin-top: 12px;
+       margin-bottom: 0;
+       color: #A9A9A9;
+}
+.aboutInfo2{
+       display: flex;
+       margin-top: 27px;
+       flex-direction: column;
+       margin-left: 32px;
+}
+.aboutInfo2 .p2{
+       font-size: 14px;
+       margin-top: 12px;
+       margin-bottom: 0;
+       color: #A9A9A9;
+}
+.fresheness{
+       margin-top: 0;
+       color: #A9A9A9;
+       font-size: 14px;
+       margin-bottom: 0;
+}
+.new{
+       color: #6A983C;
+       margin-top: 0;
+       margin-bottom: 0;
+       font-size: 14px;
+       margin-right: 5px;
+}
+.ExtraFresh{
+       font-size: 14px;
+       margin-top: 0;
+       margin-bottom: 0;
+       color: #A9A9A9;
+}
+.pcs{
+       color: #6A983C;
+       margin-bottom: 0;
+       margin-top: 12px;
+       font-size: 14px;
+}
+.PriceDiv{
+       margin: 32px 32px 32px 128px;
+}
+.Usd{
+       margin-top: 0;
+       margin-bottom: 0;
+       font-weight: 600;
+       font-size: 18px;
+}
+.Discount{
+       text-decoration: line-through;
+       margin-top: 10px;
+       margin-bottom: 0;
+       color: #A9A9A9;
+       font-weight: 600;
+       font-size: 12px;
+}
+.FreeShipping{
+       color: #A9A9A9;
+       font-weight: 600;
+       font-size: 12px;
+       margin-bottom: 0;
+       margin-bottom: 5px;
+}
+.Delivery{
+       font-size: 12px;
+       color: #A9A9A9;
+       margin: 0;
+}
+.ProducDetail{
+       padding: 12px 16px;
+       background: #6A983C;
+       border: 2px solid #46760A;
+       border-radius: 12px;
+       font-weight:700;
+       margin: 12px 0px 12px 10px;
+       font-size: 15px;
+       color: white;
+       margin-top: 26px;
+}
+.toRightWhite{
+       margin-left: 13px;
+}
+.Heart{
+       font-weight: 700;
+       margin: 0px 8px;
+       font-size: 15px;
+       background: #F5F5F5;
+       border-radius: 12px;
+       padding: 6.5px 12px;
+       display: flex;
+       align-items: center;
+}
+.heart{
+       margin-right: 9px;
+}

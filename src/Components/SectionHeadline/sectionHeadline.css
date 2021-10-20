@@ -1,0 +1,15 @@
+.SectionHeadlineDiv{
+       display: flex;
+       justify-content: space-between;
+       padding: 70px 64px 41.5px 45px;
+}
+.SectionHeadlineDiv strong{
+       font-size: 18px;
+       font-weight: 600;
+}
+.SectionHeadlineDiv button{
+       border: none;
+       background: transparent;
+       font-weight: 700;
+       font-size: 15px;
+}

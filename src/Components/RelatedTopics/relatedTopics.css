@@ -1,0 +1,15 @@
+.RelatedTopicsDiv{
+       display: flex;
+       justify-content: space-between;
+       padding: 53px 64px 36px 0px;
+}
+.RelatedTopicsDiv strong{
+       font-size: 18px;
+       font-weight: 600;
+}
+.RelatedTopicsDiv button{
+       border: none;
+       background: transparent;
+       font-weight: 700;
+       font-size: 15px;
+}

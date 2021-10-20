@@ -1,0 +1,60 @@
+.DinnerTips{
+       display: flex;
+}
+.grayBox{
+       width: 269px;
+       height: 180px;
+       background-color: rgb(245, 245, 245);
+       border-radius: 12px;
+}
+.VegetableDiv{
+       margin-right: 31.5px;
+}
+.Vegetable{
+    width: 64px;
+    color: rgb(106,152,60);
+    background-color: rgb(244, 248, 236);
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 24px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 12px;
+    margin-bottom: 0;
+}
+.forFamily{
+    font-weight: 600;
+    font-size: 18px;
+    width: 265px;
+    margin: 8px 0 0 0 ;
+}
+.VegetableDivData{
+       display: flex;
+       align-items: center;
+}
+.VegetableDivData p{
+       font-size: 12px;
+}
+.DataNumber1{
+       margin-right: 16px;
+}
+.TipsDiv{
+       display: flex;
+       justify-content: space-between;
+}
+.TipsText{
+       font-weight: 500;
+       font-size: 15px;
+       width: 225px;
+       margin: 0;
+}
+.box{
+       width: 96px;
+       height: 96px;
+       background-color: rgb(245, 245, 245);
+       border-radius: 12px;
+       margin-left: 48px;
+}
+.TipsDivM{
+       margin-top: 50px;
+}

@@ -1,0 +1,5 @@
+.SpaceForCustomersDiv{
+       display: flex;
+       overflow: hidden;
+       padding-bottom: 90px;
+}

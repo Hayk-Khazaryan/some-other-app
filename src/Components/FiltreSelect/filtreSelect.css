@@ -1,0 +1,141 @@
+.FiltreSelect{
+       padding: 15.5px 45px 16px;
+}
+.HomepageTo{
+       display: flex;
+}
+.homepage{
+       color: #A9A9A9;
+       margin-right: 8px;
+       font-size: 12px;
+}
+.sign{
+       color: #A9A9A9;
+       font-size: 12px;
+       margin-right: 8px;
+}
+.fruitAndVegetables{
+       font-size: 12px;
+       font-weight: 400;
+}
+
+
+.list{
+       margin-left: 25px;
+}
+.FiltreBoxes{
+       display: flex;
+}
+.FiltreTextBox {
+       display: flex;
+       align-items: center;
+       background-color: rgb(249, 249, 249);
+       border: 1px solid rgb(209, 209, 209);
+       width: 236px;
+       border-radius: 12px;
+       margin-right: 16px;
+}
+.FiltreTextBox .input{
+       width: 20px;
+       height: 20px;
+       margin:0 10px 0 18px;
+}
+.FiltreTextBox .p{
+       font-size: 14px;
+       margin: 0;
+}
+.FiltreNBM{
+       display: flex;
+       align-items: center;
+       background-color: rgb(249, 249, 249);
+       border: 1px solid rgb(209, 209, 209);
+       width: 151px;
+       margin-right: 16px;
+       padding: 11px 18px;
+       border-radius: 12px;
+}
+.FiltreNBM .input1{
+       width: 20px;
+       height: 20px;
+       background-color: rgb(249, 249, 249);
+       border: 1.5px solid #ddd;
+       -webkit-appearance: none;
+       margin:0 10px 0 0;
+}
+.FiltreNBM .p1{
+       font-size: 14px;
+       margin: 0 0 0 16px;
+
+}
+.FiltreNBM .p2{
+       margin:0 0 0 16px;
+       font-weight: 600;
+       font-size: 12px;
+       border:  1px solid rgb(209, 209, 209);
+       padding: 0 8px;
+       border-radius: 12px;
+}
+.FiltreSelectBox{
+       display: flex;
+       align-items: center;
+       background-color: rgb(249, 249, 249);
+       border: 1px solid rgb(209, 209, 209);
+       width: 235px;
+       padding: 11px 18px;
+       margin-right: 16px;
+       border-radius: 12px;
+}
+.FiltreSelectBox .input1{
+       width: 20px;
+       height: 20px;
+       margin:0 10px 0 0;
+}
+.FiltreSelectBox .p1{
+       margin:0 0 0 16px;
+       font-size: 14px;
+}
+.FiltreSelectBox .p2{
+       margin:0 0 0 16px;
+       font-weight: 600;
+       font-size: 12px;
+       border:  1px solid rgb(209, 209, 209);
+       padding: 0 8px;
+       border-radius: 12px;
+}
+.FiltreSelectBox .height{
+       width: 1px;
+       height: 20px;
+       background-color: rgb(209, 209, 209);
+       margin-left: 32px;
+
+}
+.FiltreSelectBox .p3{
+       font-weight: 600;
+       font-size: 12px;
+       padding-left: 24px;
+       padding-right: 8px;
+       margin: 0;
+}
+.AppliedFiltres{
+       display: flex;
+       margin-top: 16px;
+}
+.AppliedFiltres .p1{
+       font-weight: 600;
+       font-size: 12px;
+       color: #A9A9A9;
+       margin: 0 20px 0 0;
+}
+.AppliedFiltres .p{
+       margin: 0;
+       font-weight: 600;
+       font-size: 12px;
+       padding: 0 8px;
+       color: #6A983C;
+       background: #F4F8EC;
+       border-radius: 12px;
+       margin-right: 12px;
+}
+.AppliedFiltres .clouse{
+       margin-left: 6.5px;
+}

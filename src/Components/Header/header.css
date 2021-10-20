@@ -1,0 +1,81 @@
+.Header{
+       padding: 16px 45px 48px;
+}
+.HeaderDiv1{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+}
+.chatWithUs{
+       display: flex;
+}
+.chatWithUs p{
+       font-size: 12px;
+}
+.aboutUs{
+       display: flex;
+}
+.chatWithUsp1{
+       color: rgb(125, 165, 85);
+       margin-right: 33px;
+}
+.chatWithUsp2{
+       margin-right: 33px;
+}
+.aboutUs p{
+       color: rgb(125, 165, 85);
+       margin-left: 33px;
+       font-size: 12px;
+}
+.line{
+       height: 1px;
+       width: 1170px;
+       margin-bottom: 16px;
+       background-color: rgb(243, 243, 243);
+}
+.HeaderDiv2{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       margin-top: 40px;
+}
+.four{
+       margin-left: -35px;
+       margin-top: 10px;
+}
+.person{
+       margin-right: 41px;
+}
+.HeaderIcons{
+       display: flex;
+       margin-right: 15px;
+}
+.HeaderSearch{
+       display: flex;
+       align-items: center;
+       border: 2px solid rgb(219, 219, 219);
+       background-color: rgb(249, 249, 249);
+       border-radius: 15px;
+       padding: 10px 16px;
+       width: 500px;
+}
+.HeaderSearch strong{
+       font-size: 15px;
+       font-weight: 700;
+}
+.lineHeight{
+       width: 2px;
+       height: 20px;
+       background-color: rgb(219, 219, 219);
+       margin-right: 24px;
+}
+.greenDown{
+       margin-left: 13px;
+       margin-right: 29px;
+}
+.HeaderInput{
+       border: none;
+       width: 302px;
+       background-color: rgb(249, 249, 249);
+       font-size: 14px;
+}

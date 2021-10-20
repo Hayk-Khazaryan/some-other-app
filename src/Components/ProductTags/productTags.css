@@ -1,0 +1,30 @@
+.ProductTags{
+       padding: 0px 141px 48px 45px;
+}
+.ProductTagsTitle{
+       font-weight: 600;
+       font-size: 18px;
+       margin-bottom: 0;
+}
+.ProductDiv{
+       display: flex;
+}
+.ProductText{
+       display: flex;
+       flex-wrap: wrap;
+       margin: 0px;
+}
+.VegetableTextes{
+       margin-top: 20px;
+       margin-bottom: 0;
+       margin-right: 16px;
+       background-color: rgb(245, 245, 245);
+       font-weight: 600;
+       font-size: 12px;
+       padding: 4px 10px;
+       border-radius: 12px;
+}
+.Copyright{
+       margin-top: 48px;
+       font-size: 14px;
+}

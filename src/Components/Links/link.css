@@ -1,0 +1,10 @@
+.linksTitle{
+       font-size: 18px;
+       font-weight: 600;
+       margin: 0;
+}
+.linksText{
+       color: rgb(106, 152, 60);
+       margin-top: 16px;
+       font-size: 14px;
+}

@@ -1,0 +1,12 @@
+.MenuDiv{
+       display: flex;
+       padding: 64px 45px 66px 45px;
+}
+.MenuCard1{
+       display: flex;
+       margin-left: 122px;
+}
+.MenuCard2{
+       display: flex;
+       margin-left: 31px;
+}

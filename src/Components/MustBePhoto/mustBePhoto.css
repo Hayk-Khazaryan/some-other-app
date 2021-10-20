@@ -1,0 +1,67 @@
+.mustBePhoto{
+       display: flex;
+       flex-direction: column;
+       justify-content: space-between;
+       align-items: flex-start;
+       height: 400px;
+       margin-left: 45px;
+       margin-right: 31.5px;
+}
+.whiteRound{
+       width: 32px;
+       height: 32px;
+       border-radius: 50%;
+       background-color: rgb(249, 249, 249);
+       margin-right: 8px;
+}
+.DinnerTipsP1{
+       color: rgb(106,152,60);
+       background-color: rgb(244, 248, 236);
+       font-size: 12px;
+       font-weight: 600;
+       margin: 18.5px 0 0 32px;
+       padding: 0 8px;
+       border-radius: 12px;
+       text-align: center;
+}
+.mustBePhoto .ipsP2{
+       width: 24px;
+}
+.DinnerTipsDiv{
+       height: 206px;
+       width: 469px;
+       border-radius: 12px;
+       background: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+       border-radius: 12px;
+}
+.DinnerTipsDivP2{
+       color: white;
+       font-weight: 600;
+       line-height: 33px;
+       font-size: 22px;
+       padding: 43px 65px 0px 24px;
+       width: 350px;
+       margin: 0;
+}
+.padding{
+       color: white;
+       font-weight: 600;
+       line-height: 33px;
+       font-size: 22px;
+       padding: 76px 65px 0px 24px;
+       margin: 0;
+}
+.DinnerTipsDivData{
+       display: flex;
+       align-items: center;
+       margin-top: 8px;
+       margin-left: 24px;
+       font-size: 12px;
+}
+.dataNumber1{
+       color: white;
+       margin-right: 16px;
+}
+.dataNumber2{
+       color: white;
+}

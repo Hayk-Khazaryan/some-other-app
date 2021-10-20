@@ -1,0 +1,55 @@
+.homepageDiv{
+       display: flex;
+       padding: 15.5px 0 16.5px 45px;
+}
+.homepageDiv p{
+       margin:0 8px 0 0;
+       color: #A9A9A9;
+       font-size: 12px;
+}
+.homepageDiv .carrots{
+       color: black;
+}
+.CardAndPhoto{
+       display: flex;
+}
+.MustBePhoto{
+       display: flex;
+       flex-direction: column;
+       padding: 16px 32px 16px 42px;
+}
+.MustBePhoto .photo{
+       background: #F9F9F9;
+       border-radius: 12px;
+       width: 569px;
+       height: 436px;
+       margin-top: 32px;
+}
+.MustBePhoto .firstPhoto{
+       display: flex;
+       margin-top: 0;
+}
+.firstPhoto .discount{
+       margin: 16px 12px 0 16px;
+       font-weight: 600;
+       color: #6A983C;
+       font-size: 12px;
+       background: #F4F8EC;
+       border-radius: 12px;
+       padding: 4px 10px;
+       height: 18px;
+}
+.firstPhoto .freeshipping{
+       padding: 4px 10px;
+       height: 18px;
+       font-weight: 600;
+       font-size: 12px;
+       color: #6A983C;
+       margin-top: 16px;
+       background: #F4F8EC;
+       border-radius: 12px;
+}
+.flexProduct{
+       display: flex;
+       padding: 39px 45px 0px 45px;
+}

@@ -1,0 +1,356 @@
+.BlogPost{
+       padding: 0 45px;
+}
+.fruitAndVegetables2{
+       font-size: 12px;
+       font-weight: 400;
+       color: #A9A9A9;
+       margin-right: 8px;
+}
+.productTittle{
+       font-size: 12px;
+}
+.listSpace{
+       display: flex;
+       background: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+       border-radius: 12px;
+       margin: 48px 0;
+       width: 1169px;
+       height: 480px;
+}
+.listSpace .info1 .p{
+       font-weight: 600;
+       font-size: 12px;
+       margin-bottom: 15px;
+       margin-top: 0;
+       color: #A9A9A9;
+}
+.listSpace .info1 p{
+       font-weight: 600;
+       font-size: 12px;
+       margin-bottom: 12px;
+       margin-top: 0;
+       color: #A9A9A9;
+}
+.listSpace .info1{
+       padding: 364px 0 0 200px;
+}
+.listSpace .info2{
+       padding: 364px 0 0 32px;
+}
+.listSpace .info2 .p{
+       font-weight: 600;
+       margin-bottom: 15px;
+       font-size: 12px;
+       color: #FFFFFF;
+       text-decoration: underline;
+}
+.listSpace .info2 p{
+       font-weight: 600;
+       font-size: 12px;
+       text-decoration: underline;
+       margin-bottom: 12px;
+       margin-top: 0;
+       color: #FFFFFF;
+}
+
+.listSpace .info3{
+       padding-left: 44px;
+       padding-top: 288px;
+       font-weight: 600;
+       color: #FFFFFF;
+       font-size: 32px;
+       width: 535px;
+
+}
+.TagsBlock{
+       display: flex;
+       padding: 48px 0 0 200px;
+}
+.TagDiv .title{
+       font-weight: 600;
+       font-size: 18px;
+       margin-top: 0;
+       margin-bottom: 16px;
+}
+.Tags{
+       display: flex;
+       flex-wrap: wrap;
+       width: 160px;
+}
+.Tags .products{
+       font-weight: 600;
+       font-size: 12px;
+       color: #6A983C;
+       padding: 4px 10px;
+       background: #F4F8EC;
+       margin: 0 8px 8px 0;
+       border-radius: 12px;
+
+}
+.backToBlog{
+       display: flex;
+       align-items: flex-end;
+       margin-top: 54px;
+}
+.backToBlog p{
+       margin-left: 10px;
+       font-size: 15px;
+       font-weight: 700;
+       margin-bottom: 0;
+}
+.fromList{
+       margin-left: 55px;
+}
+.fromList .text1{
+       font-size: 17px;
+       line-height: 23px;
+       width: 569px;   
+       margin: 0;
+}
+.fromList .text2{
+       font-size: 17px;
+       width: 569px;   
+       line-height: 23px;   
+       margin-top: 12px;
+       margin-bottom: 0;
+}
+.fromList .text3{
+       font-size: 17px;
+       width: 569px;   
+       line-height: 23px;   
+       margin-top: 12px;
+       margin-bottom: 0;
+}
+.fromList .text4{
+       font-size: 17px;
+       width: 569px;   
+       margin-top: 31px;
+       margin-bottom: 0;
+       line-height: 23px;   
+}
+.fromList .text5{
+       font-size: 17px;
+       margin-top: 12px;
+       margin-bottom: 0;
+       width: 569px;   
+       line-height: 23px;   
+}
+.fromList .data{
+       margin-top: 48px;
+       margin-bottom: 0;
+       font-weight: 600;
+       font-size: 18px;
+}
+.fromList .icons{
+       display: flex;
+       align-items: center;
+       margin-top: 48px;
+}
+.shareIcon{
+       font-weight: 600;
+       font-size: 18px;
+       margin-right: 16px;
+}
+.icons .facebook{
+       margin-right: 16px;
+}
+.icons .interest{
+       margin-right: 16px;
+}
+.icons .twitter{
+       margin-right: 16px;
+}
+.leaveReply{
+       font-weight: 600;
+       font-size: 22px;
+       margin: 0;
+}
+.YourAnswer .p{
+       display: flex;
+       align-items: center;
+       font-size: 17px;
+       margin-top: 12px;
+       margin-bottom: 16px;
+}
+.YourAnswer .signIn{
+       margin: 0 5px;
+       font-size: 17px;
+       text-decoration: underline;
+}
+.YourAnswer .input{
+       background: #F9F9F9;
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+       font-size: 14px;
+       padding: 11px 16px 12px 21px;
+       width: 268px;
+       margin-right: 32px;
+}
+.NameEmail{
+       display: flex;
+}
+.inputCalm p{
+       font-weight: 600;
+       font-size: 12px;
+       margin: 0;
+}
+.SaveMyName{
+       display: flex;
+       align-items: center;
+       margin-top: 32px;
+       padding: 11px 16px 11px 18px;
+       background: #F9F9F9;
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+       width: 445px;
+}
+.SaveMyName p{
+       margin: 0;
+       font-size: 14px;
+       margin-left: 10px;
+}
+.SaveMyName input{
+       width: 20px;
+       height: 20px;
+       background-color: rgb(249, 249, 249);
+       border: 1.5px solid #ddd;
+       -webkit-appearance: none;
+       margin: 0;
+}
+.Comment{
+       margin-top: 32px;
+}
+.Comment p{
+       font-weight: 600;
+       font-size: 12px;
+       margin: 0;
+}
+.Comment textarea{
+       background: #F9F9F9;
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+       padding: 11px 16px 82px 21px;
+       width: 569px;
+       color: #A9A9A9;
+       resize: none;
+       font-size: 14px;
+}
+.SendComment{
+       font-size: 15px;
+       padding: 12.5px 48px;
+       background: #6A983C;
+       border: 2px solid #46760A;
+       border-radius: 12px;
+       color:#FFFFFF;
+       width: 228px;
+       margin-top: 32px;
+}
+.TitleComents{
+       font-size: 22px;
+       font-weight: 600;
+       margin-top: 48px;
+       margin-bottom: 16px;
+}
+.AuthorAdmin{
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+       width: 569px;
+}
+.AuthorAdmin .information{
+       display: flex;
+       flex-direction: column;
+       padding: 16px;
+}
+.roundGrayy{
+       background: #F9F9F9;
+       border-radius: 12px;
+       width: 40px;
+       height: 40px;
+       margin-right: 12px;
+}
+.infoUser{
+       display: flex;
+       flex-wrap: wrap;
+       width: 145px;
+}
+.infoUser .author{
+       font-weight: 600;
+       font-size: 12px;
+       margin: 0;
+}
+.infoUser .admin{
+       color: #6A983C;
+       margin: 0 0 0 6px;
+       font-weight: 600;
+       font-size: 12px;
+       background: #F4F8EC;
+       border-radius: 12px;
+       padding: 0 8px;
+}
+.infoUser .dataNumber{
+       margin: 0;
+       color: #D1D1D1;
+       font-size: 12px;
+}
+.Post1{
+       width: 515px;
+       font-size: 14px;
+       margin-top: 24px;
+       margin-bottom: 0;
+}
+.UserCoustomer{
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+       width: 468px;
+       margin-top: 24px;
+       margin-left: 102px;
+}
+.UserCoustomer .information{
+       display: flex;
+       flex-direction: column;
+       padding: 16px;
+}
+.roundGrayy{
+       background: #F9F9F9;
+       border-radius: 12px;
+       width: 40px;
+       height: 40px;
+       margin-right: 12px;
+}
+.infoUser{
+       display: flex;
+       flex-wrap: wrap;
+       width: 145px;
+}
+.infoUser .user{
+       font-weight: 600;
+       font-size: 12px;
+       margin: 0;
+}
+.infoUser .customer{
+       margin: 0 0 0 6px;
+       font-weight: 600;
+       font-size: 12px;
+       background: #F5F5F5;
+       border-radius: 12px;
+       padding: 0 8px;
+}
+.infoUser .dataNumber{
+       margin: 0;
+       color: #D1D1D1;
+       font-size: 12px;
+}
+.Post2{
+       width: 415px;
+       font-size: 14px;
+       margin-top: 24px;
+       margin-bottom: 0;
+}
+.flexSpace{
+       display: flex;
+       padding: 0;
+}
+.flexSpace .SpaceForYourHeading{
+       padding: 0 32px 0 0;
+}

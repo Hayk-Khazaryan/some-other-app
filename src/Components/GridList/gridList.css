@@ -1,0 +1,39 @@
+.GridList{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+}
+.GridList .title{
+       font-size: 32px;
+       font-weight: 600;
+}
+.GridList .icons{
+       display: flex;
+       align-items: center;
+}
+.icons .products{
+       margin-left: 4px;
+       font-size: 12px;
+}
+.icons .iconGrid{
+       font-size: 12px;
+       color: black;
+       cursor: pointer;
+       margin-left: 5px;
+}
+.icons .iconList{
+       color: #A9A9A9;
+       font-size: 12px;
+       cursor: pointer;
+       margin-left: 5px;
+}
+.icons .number{
+       margin-left: 24px;
+       background: #F4F8EC;
+       border-radius: 12px;
+       padding: 0px 8px;
+       color: #6A983C;
+       font-weight: 600;
+       font-size: 12px;
+       
+}

@@ -1,0 +1,102 @@
+.Product{
+       width: 269px;
+       border: 1px solid rgb(221, 221, 221);
+       border-radius: 15px;
+       padding: 16px;
+       margin-right: 32px;
+       padding-bottom: 0;
+}
+.ProductImg{
+       background-color: rgb(249, 249, 249);
+       border-radius: 15px;
+       height: 180px;
+}
+.percent{
+       padding-top: 12px;
+       padding-left: 20px;
+       font-size: 12px;
+       font-weight: 600;
+       color: rgb(106, 152, 60);
+}
+.Price{
+       margin-top: 16px;
+}
+.Description{
+       margin-top: 4px;
+       color: rgb(129, 129, 129);
+       font-size: 15px;
+       margin-bottom: 0;
+}
+.Stars{
+       margin-top: 3px;
+}
+.numberP{
+       margin-top: 0px;
+       font-weight: 100;
+       color: rgb(169, 169, 169);
+       text-decoration: line-through;
+}
+.ProductPriceDiv{
+       display: flex;
+       justify-content: space-between;
+}
+.BuyNow{
+       width: 90px;
+       padding: 6.5px 12px;
+       color: white;
+       background-color: rgb(106, 152, 60);
+       border: 1px solid rgb(70, 118, 10);
+       border-radius: 10px;
+       font-size: 15px;
+       font-weight: 700;
+       margin-top: 21px;
+}
+.currency{
+       margin-top: 16px;
+       font-size: 20px;
+}
+.ProductTitle{
+       margin-top: 16px;
+       font-size: 18px;
+       font-weight: 500;
+}
+.other{
+       margin-left: 109px;
+       margin-bottom: 16px;
+}
+.other .percent{
+       display: none;
+}
+.other .numberP{
+       display: none;
+}
+.other .currency{
+       margin-top: 21px;
+}
+.other .BuyNow{
+       margin-top: 16px;
+}
+.other .ProductImg{
+       margin-top: 16px;
+}
+.MenuList{
+       width: 250px;
+}
+.otherProduct .percent{
+       display: none;
+}
+.otherProduct .numberP{
+       display: none;
+}
+.otherProduct .currency{
+       margin-top: 21px;
+}
+.otherProduct .BuyNow{
+       margin-top: 16px;
+}
+.otherProduct .ProductImg{
+       margin-top: 16px;
+}
+.otherProductListView .Stars{
+       display: none;
+}

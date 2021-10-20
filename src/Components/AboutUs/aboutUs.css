@@ -1,0 +1,5 @@
+.AboutUs{
+       display: flex;
+       justify-content: space-between;
+       padding: 128px 45px 0px;
+}

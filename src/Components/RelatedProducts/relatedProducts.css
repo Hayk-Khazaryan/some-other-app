@@ -1,0 +1,15 @@
+.RelatedProducts{
+       display: flex;
+       justify-content: space-between;
+       padding: 69px 64px 40px 45px;
+}
+.RelatedProducts strong{
+       font-size: 18px;
+       font-weight: 600;
+}
+.RelatedProducts button{
+       border: none;
+       background: transparent;
+       font-weight: 700;
+       font-size: 15px;
+}

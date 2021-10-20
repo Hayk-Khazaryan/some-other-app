@@ -1,0 +1,273 @@
+.DetailsPage .icons{
+       display: flex;
+       align-items: center;
+}
+.DetailsPage h2{
+       font-weight: 600;
+       font-size: 32px;   
+       margin: 16px 0 0 0;  
+}
+.DetailsPage .starYellow{
+       margin-top: 10px;
+       margin-right: 5px;
+}
+.DetailsPage .star{
+       margin-right: 10px;
+}
+.DetailsPage .icons p{
+       font-size: 12px;
+       color: #A9A9A9;
+       margin: 0;
+       margin-top: 10px;
+       text-decoration: underline;
+}
+.DetailsPage .text{
+       width: 569px;
+       font-size: 17px;
+       margin: 42px 0 0 0;
+}
+.DetailsPage .flex{
+       display: flex;
+}
+.category p{
+       font-size: 14px;
+       margin-bottom: 12px;
+       margin-top: 0;
+       color: #A9A9A9;
+}
+.sku{
+       margin-top: 40px;
+       margin-right: 68px;
+}
+.category{
+       margin-top: 40px;
+       margin-right: 39px;
+}
+.categoryTwo{
+       margin-right: 16px;
+}
+.sku .skuP{
+       font-size: 14px;
+       margin-bottom: 12px;
+       margin-top: 0;
+}
+.sku .categoryP{
+       margin-top: 0;
+       font-size: 14px;
+       text-decoration: underline;
+}
+.sku .stock{
+       margin-top: 0;
+       text-decoration: underline;
+       font-size: 14px;
+       color: #6A983C;
+}
+.sku .farm{
+       margin-top: 0;
+       font-size: 14px;
+}
+.freshness{
+       margin-top: 40px;
+}
+.freshness p{
+       font-size: 14px;
+       margin-top: 0;
+       margin-bottom: 12px;
+}
+.CarrotsPrise{
+       display: flex;
+       align-items: center;
+       padding: 21.5px 24px 20.5px 16px;
+       border: 1px solid #F5F5F5;
+       border-radius: 12px;
+       margin-top: 40px;
+}
+.prise .newPrise{
+       font-weight: 600;
+       font-size: 26px;
+       color: #6A983C;
+       margin: 0;
+}
+.prise .oldPrise{
+       margin: 0;
+       font-weight: 600;
+       font-size: 12px;
+       color: #A9A9A9;
+       text-decoration: line-through;
+}
+.PcsDiv{
+       display: flex;
+       align-items: center;
+       border: 1px solid #D1D1D1;
+       background: #F9F9F9;
+       border-radius: 12px;
+       margin-left: 90px;
+       max-height: 48px;
+}
+.PcsDiv .height{
+       height: 20px;
+       border: 1px solid #D1D1D1;
+       margin: 14px 16px 14px 0;
+}
+.PcsDiv .number{
+       margin: 14.5px 16px;
+       font-size: 14px;
+       color: #D1D1D1;
+
+}
+.PcsDiv .Pcs{
+       font-weight: 600;
+       font-size: 12px;
+       margin: 15px 7.5px 15px 0;
+}
+.PcsDiv .toDown{
+       margin-right: 22px;
+}
+.AddToCart{
+       display: flex;
+       margin-left: 25px;
+}
+.AddToCart .button{
+       display: flex;
+       align-items: center;
+       font-size: 15px;
+       color: #FFFFFF;
+       margin: 0;
+       padding: 12px 16px;
+       background: #6A983C;
+       border: 2px solid #46760A;
+       border-radius: 12px;
+       font-weight: 700;
+}
+.AddToCart .plus{
+       margin: 0;
+       font-size: 20px;
+       font-weight: 700;
+       margin-right: 6px;
+}
+.AddList{
+       display: flex;
+       align-items: center;
+       margin-top: 30px;
+}
+.AddList .heartRed{
+       margin-right: 7px;
+}
+.addListP{
+       font-weight: 700;
+       margin-right: 28px;
+       margin-top: 0;
+       margin-bottom: 0;
+       font-size: 15px;
+}
+.AddList .compar{
+       margin-right: 6px;
+}
+.compareP{
+       font-size: 15px;
+       margin-bottom: 0;
+       font-weight: 700;
+       margin-top: 0;
+}
+.Cook{
+       display: flex;
+       align-items: center;
+       margin-top: 62px;
+}
+.Cook .p{
+       font-weight: 600;
+       font-size: 18px;
+       margin: 0 ;
+}
+.Cook .first{
+       margin-right: 95px;
+}
+.Cook .three{
+       margin-right: 91px;
+}
+.infoNum{
+       margin: 0 0 0 8px;
+       color: #6A983C;
+       font-weight: 600;
+       font-size: 12px;
+       background: #F4F8EC;
+       border-radius: 12px;
+       padding: 0 8px;
+}
+.lineDiv{
+       display: flex;
+}
+.lineGreen{
+       margin-top: 16px;
+       background-color:  #6A983C;
+       height: 1px;
+       width: 168px;
+}
+.lineGray{
+       margin-top: 16px;
+       background-color:  rgb(245, 245, 245);
+       height: 1px;
+       width: 401px;
+}
+.lineWidth{
+       width: 573px;
+       height: 1px;
+       background: #EBEBEB;
+       position: absolute;
+       margin-top: 26px;
+}
+.cookInfo{
+       margin-top: 48px;
+}
+.cookInfo h4{
+       font-weight: 500;
+       font-size: 15px;
+       margin: 0;
+}
+.cookInfo p{
+       font-weight: 400;
+       font-size: 14px;
+       width: 549px;
+       margin-top: 8px;
+       margin-bottom: 0;
+}
+.cookInfo .title{
+       margin-top: 32px;
+}
+
+.titles p{
+       font-weight: 600;
+       font-size: 14px;
+       margin: 0;
+}
+
+.textMap{
+       display: flex;
+}
+.textMap p{
+       margin-top: 11px;
+       margin-bottom: 10px;
+}
+table{
+       width: 573px;
+       text-align: left;
+       position: relative;
+}
+table tr{
+       width: 33%;
+}
+table td{
+       padding: 11px 20px 10px 0;
+       font-size: 14px;
+       font-weight: 400;
+       color: #575757;
+}
+table th{
+       font-weight: 600;
+       font-size: 12px;
+       padding-bottom: 7px;
+}
+.fullofVitamins{
+       font-weight: 500;
+       font-size: 15px;
+}

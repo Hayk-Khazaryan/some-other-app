@@ -1,0 +1,75 @@
+.BlogPage{
+       padding: 0 45px;
+}
+.mustBePhotoFlex{
+       display: flex;
+       padding-top: 72px;
+       padding-bottom: 96px;
+}
+.Archives .title{
+       font-weight: 600;
+       font-size: 18px;
+       margin-top: 0;
+       margin-bottom: 16px;
+}
+.Archives .data{
+       font-size: 14px;
+       color: #6A983C;
+       text-decoration: underline;
+       margin-top: 0;
+       margin-bottom: 12px;
+}
+.Category .title{
+       font-weight: 600;
+       font-size: 18px;
+       margin-top: 48px;
+       margin-bottom: 16px;
+}
+.Category .data{
+       font-size: 14px;
+       color: #A9A9A9;
+       text-decoration: underline;
+       margin-top: 0;
+       margin-bottom: 12px;
+}
+.JoinOurList{
+       margin-right: 0px;
+}
+.joinOurList .title{
+       font-weight: 600;
+       font-size: 18px;
+       margin-top: 48px;
+       margin-bottom: 8px;
+}
+.joinOurList .data{
+       font-size: 14px;
+       color: #A9A9A9;
+       width: 269px;
+       margin: 0 0 24px 0;
+}
+.Subscribe{
+       display: flex;
+       background: #F9F9F9;
+       border: 1px solid #D1D1D1;
+       border-radius: 12px;
+       width: 235px;
+       padding: 11px 16px 12px 21px;
+}
+.Subscribe .p1{
+       margin: 0;
+       font-size: 14px;
+       color: #A9A9A9;
+}
+.Subscribe .p2{
+       margin: 0;
+       margin-left: 50px;
+       font-size: 15px;
+       font-weight: 700;
+}
+.SpaceForHeadingDiv{
+       display: flex;
+       flex-wrap: wrap;
+}
+.flex{
+       display: flex;
+}
